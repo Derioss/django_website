@@ -1,0 +1,2 @@
+# django_website
+training_django_project
