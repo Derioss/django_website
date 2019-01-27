@@ -2,7 +2,7 @@
 training_django_project
 
 
-memo : 
+### memo : 
 min protocol = SMB2
 semanage fcontext -a -t samba_share_t '/home/django/project(/.*)?'
 restorecon -R -v project/
