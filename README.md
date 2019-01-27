@@ -12,3 +12,5 @@ restorecon -R -v project/
 yum install python36
 
 python36 -m ensurepip --default-pip
+
+python36 -m pip install django
